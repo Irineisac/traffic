@@ -1,3 +1,3 @@
 # traffic
-activate environment
+activate environment:
 yolo_env\Scripts\Activate
